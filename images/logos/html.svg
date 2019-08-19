@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="110px" height="100px" viewBox="0 0 110 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Group 18</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-262.000000, -295.000000)">
+            <g id="Group-18" transform="translate(262.000000, 295.000000)">
+                <g id="Group-17">
+                    <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="110" height="100"></rect>
+                    <g id="Group-3" transform="translate(31.000000, 8.000000)">
+                        <circle id="Oval" fill="#E5F4F3" cx="24" cy="24" r="24"></circle>
+                        <g id="html-5" transform="translate(11.000000, 9.000000)" fill="#FC490B" fill-rule="nonzero">
+                            <path d="M0.00293532992,1.02622325 L2.00731854,26.7656331 C2.03740883,27.1521448 2.29804907,27.4817473 2.6662461,27.5989218 L13.2133551,30.9554972 C13.3998722,31.0148343 13.6001185,31.0148343 13.7866356,30.9554972 L24.3337446,27.5989218 C24.7019416,27.4817473 24.9625818,27.1521448 24.9926721,26.7656331 L26.9970553,1.02622325 C27.0401634,0.472839572 26.6044589,0 26.0515231,0 L0.948538696,0 C0.395602943,0 -0.0401016096,0.472839572 0.00293532992,1.02622325 Z M21.8569509,9.0122994 L8.79399492,9.0122994 L9.18822752,12.6614184 L21.572836,12.6614184 L20.7626745,23.0645317 L13.5000309,25.3758189 L6.23738731,23.0645317 L5.81413146,17.6295186 L9.62613727,17.6295186 L9.62613727,20.2954712 L13.6018968,21.3665364 L17.5538972,20.2954712 L17.8604909,16.0466984 L5.69085375,16.0466984 L4.88289745,5.67086167 L22.1170932,5.67086167 L21.8569509,9.0122994 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                    <text id="Html5" font-family="AdobeKaitiStd-Regular, Adobe Kaiti Std" font-size="14" font-weight="normal" fill="#1F1E1E">
+                        <tspan x="35.246" y="86">Html5</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

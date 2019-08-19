@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="110px" height="105px" viewBox="0 0 110 105" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Group 16</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-132.000000, -295.000000)">
+            <g id="Group-16" transform="translate(132.000000, 295.000000)">
+                <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="110" height="105"></rect>
+                <g id="Group-4" transform="translate(31.000000, 8.000000)">
+                    <circle id="Oval" fill="#E5F4F3" cx="24" cy="24" r="24"></circle>
+                    <g id="visual-studio-code-seeklogo.com" transform="translate(8.000000, 9.000000)" fill="#016EC5" fill-rule="nonzero">
+                        <path d="M23.2474389,0 L23.2474389,26.6247572 L0,23.1719285 L23.2474389,31 L30.9974389,27.7760867 L30.9974389,3.70456504 L31,3.70340074 L30.9974389,3.69827748 L30.9974389,3.22414525 L23.2474389,0 Z M15.1120348,4.53592642 L7.99148896,11.5745534 L3.70453728,8.34598365 L1.93773291,8.93608715 L6.29920381,13.2475225 L1.93773291,17.558726 L3.70453728,18.1490623 L7.99148896,14.9202593 L7.99172193,14.9202593 L15.111801,21.958421 L19.3763972,20.1464252 L19.3763972,6.34792172 L15.1120348,4.53592642 Z M15.111801,9.55809453 L15.111801,16.9360196 L10.2130936,13.2470575 L15.111801,9.55809453 Z" id="Shape"></path>
+                    </g>
+                </g>
+                <text id="Visual-studio-code" font-family="AdobeKaitiStd-Regular, Adobe Kaiti Std" font-size="14" font-weight="normal" fill="#1F1E1E">
+                    <tspan x="14.582" y="86">Visual studio </tspan>
+                    <tspan x="40.328" y="100">code</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

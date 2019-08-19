@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="110px" height="100px" viewBox="0 0 110 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Group 24</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-132.000000, -430.000000)">
+            <g id="Group-24" transform="translate(132.000000, 430.000000)">
+                <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="110" height="100"></rect>
+                <g id="Group-12" transform="translate(31.000000, 6.000000)">
+                    <circle id="Oval" fill="#E5F4F3" cx="24" cy="24" r="24"></circle>
+                    <g id="css-3" transform="translate(11.000000, 9.000000)" fill-rule="nonzero">
+                        <polygon id="Path" fill="#2196F3" points="0 0 2.45892857 27.3375 13.5 30.375 24.5372143 27.3393984 27 0"></polygon>
+                        <polygon id="Path" fill="#FAFAFA" points="21.6367046 8.33845365 21.330198 11.6960741 20.4049667 21.7615113 13.5 23.6231439 13.4942887 23.625 6.59312951 21.7615113 6.1114762 16.4977127 9.49256825 16.4977127 9.74386564 19.2279835 13.4961925 20.2154097 13.4980962 20.2135536 17.2561344 19.2261274 17.768248 14.6769136 5.94965591 14.7084667 5.61459273 11.5977027 18.0519094 11.4547858 18.3032068 8.12500625 5.28143333 8.16027147 5.0625 5.0625 13.5 5.0625 21.9375 5.0625"></polygon>
+                    </g>
+                </g>
+                <text id="Css3" font-family="AdobeKaitiStd-Regular, Adobe Kaiti Std" font-size="14" font-weight="normal" fill="#1F1E1E">
+                    <tspan x="40.167" y="86">Css3</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

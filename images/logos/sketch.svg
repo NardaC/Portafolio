@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="110px" height="100px" viewBox="0 0 110 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Group 27</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-525.000000, -430.000000)">
+            <g id="Group-27" transform="translate(525.000000, 430.000000)">
+                <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="110" height="100"></rect>
+                <g id="Group-9" transform="translate(31.000000, 6.000000)">
+                    <circle id="Oval" fill="#E5F4F3" cx="24" cy="24" r="24"></circle>
+                    <g id="sketch" transform="translate(9.000000, 10.000000)" fill-rule="nonzero">
+                        <polygon id="Path" fill="#FFD54F" points="5 11 5 1.89906233 14.5 0 24 1.89906233 24 11"></polygon>
+                        <polygon id="Path" fill="#FFECB3" points="5 11 14.5 0 24 11"></polygon>
+                        <polygon id="Path" fill="#FFA000" points="1.13686838e-13 10 15 28 30 10"></polygon>
+                        <polygon id="Path" fill="#FFCA28" points="5 10 14.5 28 24 10"></polygon>
+                        <g id="Group" transform="translate(0.000000, 2.000000)" fill="#FFC107">
+                            <polygon id="Path" points="0 7.94615172 5.625 0.00132413793 5.625 7.94615172"></polygon>
+                            <polygon id="Path" points="24.375 0.00132413793 24.375 7.94615172 30 7.94615172"></polygon>
+                        </g>
+                    </g>
+                </g>
+                <text id="Sketch" font-family="AdobeKaitiStd-Regular, Adobe Kaiti Std" font-size="14" font-weight="normal" fill="#1F1E1E">
+                    <tspan x="34.266" y="86">Sketch</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

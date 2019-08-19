@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="110px" height="100px" viewBox="0 0 110 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Group 20</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-525.000000, -295.000000)">
+            <g id="Group-20" transform="translate(525.000000, 295.000000)">
+                <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="110" height="100"></rect>
+                <g id="Group-8" transform="translate(31.000000, 8.000000)">
+                    <circle id="Oval" fill="#E5F4F3" cx="24" cy="24" r="24"></circle>
+                    <g id="firebase-seeklogo.com" transform="translate(12.000000, 7.000000)" fill-rule="nonzero">
+                        <path d="M0,27 L0.206591335,26.7164479 L9.97935943,8.54007523 L10,8.3476584 L5.69195391,0.415795711 C5.33102341,-0.248640795 4.31492627,-0.0806482072 4.19647561,0.663136698 L0,27 Z" id="Path" fill="#FFC24A"></path>
+                        <path d="M12.9830057,15 L16,11.6634273 L12.9821312,5.44229286 C12.6956479,4.85341925 11.8957638,4.85171946 11.6123121,5.44229284 L10,8.76280419 L10,9.04560262 L12.9830057,15 Z" id="Path" fill="#F4BD62"></path>
+                        <polygon id="Path" fill="#F6820C" points="0 27 0.0857974619 26.9061872 0.397527755 26.7683777 11.8548455 14.3534217 12 13.9236543 9.14186847 8"></polygon>
+                        <path d="M13.0734296,32.7153576 L24,26.6738983 L20.8797386,7.62239698 C20.782135,7.02632563 20.0445131,6.79067364 19.6141837,7.21807466 L0,26.701308 L10.8639151,32.7148236 C11.5504911,33.0948807 12.3866741,33.0950587 13.0734296,32.7153576" id="Path" fill="#FDE068"></path>
+                        <path d="M24,26.675828 L20.874903,7.63013837 C20.7771481,7.03424885 20.1581079,6.78766668 19.7271117,7.21493731 L0,26.7172101 L10.8435577,32.7149107 C11.5311977,33.0948518 12.3686765,33.0950297 13.0564963,32.7154445 L24,26.675828 Z" id="Path" fill="#FCCA3F"></path>
+                        <path d="M13.0734295,32.5009656 C12.386674,32.9105478 11.5504911,32.9103558 10.863915,32.5003897 L0.0875025013,26.1068033 L0,26.2056231 L10.863915,32.6923813 C11.5504911,33.1023475 12.386674,33.1025395 13.0734295,32.6929573 L24,26.1760564 L23.9732503,26 L13.0734295,32.5009656 Z" id="Path" fill="#EEAB37"></path>
+                    </g>
+                </g>
+                <text id="Firebase" font-family="AdobeKaitiStd-Regular, Adobe Kaiti Std" font-size="14" font-weight="normal" fill="#1F1E1E">
+                    <tspan x="28.771" y="86">Firebase</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
